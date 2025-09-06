@@ -27,7 +27,7 @@ A simple Python project to fetch and analyze SpaceX launch data. Get launch stat
 ### 1. Clone the Project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mukund7296/spacex-launch-tracker.git
 cd spacex-launch-tracker
 ```
 
@@ -41,6 +41,9 @@ source venv/bin/activate   # On macOS/Linux
 # OR
 venv\Scripts\activate      # On Windows
 ```
+
+<img width="652" height="156" alt="image" src="https://github.com/user-attachments/assets/1bdf3a8d-7cd7-42fa-917f-513d395f1194" />
+
 
 ### 3. Install Dependencies
 
@@ -78,6 +81,9 @@ python main.py --list
 This prints all SpaceX launches retrieved from the API.
 
 ---
+Ouptput : 
+<img width="687" height="890" alt="image" src="https://github.com/user-attachments/assets/44235ca0-74f7-457b-9305-8bb4b83e3c57" />
+
 
 ### 5. Run Tests
 
@@ -94,6 +100,9 @@ You should see something like:
 ```
 
 ---
+Output : 
+<img width="1440" height="422" alt="image" src="https://github.com/user-attachments/assets/cf159b1b-e2f5-45fe-98ea-d930860e14fa" />
+
 
 ### 6. Filter Launches (Optional)
 
@@ -120,19 +129,3 @@ pip install tabulate
 
 ---
 
-### 8. Contributing
-
-Feel free to open issues or create pull requests.
-Keep your changes clear and add tests for new features.
-
----
-
-### 9. License
-
-This project is open-source. Use it freely for learning or personal projects.
-
----
-
-If you want, I can also **rewrite this README to be super friendly, like “a human teaching another human step by step”**, with emojis and really conversational instructions—it will feel like a mini tutorial.
-
-Do you want me to do that version too?
